@@ -1,5 +1,24 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ff5d64;
+}
+
+div, p, span {
+  color: #5f2800;
+}
+
+button {
+  margin: 8px;
+  padding: 8px 12px;
+  width: 100px;
+  background-color: #ff5d64;
+  border: none;
+  border-radius: 7px;
+  box-shadow: 0 7px 0 #eb2d35, 0 10px 0 rgba(0,0,0,0.1);
+  color: #fff;
 }
